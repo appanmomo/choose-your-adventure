@@ -7,3 +7,5 @@ Delaney's wicked spell *merged her spirit into your body* and she is now fused w
 You make the most out of Delaney's plethora of knowledge and use your new powers for anyone in your way. 💥
 
 🎯 -20 points from Ravenclaw
+
+![Hogwartsevil](./img/evil.jpg)

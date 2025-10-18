@@ -9,3 +9,5 @@ However, your spell backfires 🎇- you become trapped by Delaney's protection s
 Delaney's presense spreads throughout Hogwarts 
 
 🎯 -10 points from Ravenclaw
+
+![wallspell](./img/wallspellrs.jpg)
