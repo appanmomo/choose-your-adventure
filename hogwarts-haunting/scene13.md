@@ -8,4 +8,4 @@ You made Hogwarts safe for current and future students.
 
 🎯 +20 points awarded to Ravenclaw
 
-![Ravenclaw](./img/ravenclawroomrs.jpg)
+![stairs](./img/stairs.jpg)
