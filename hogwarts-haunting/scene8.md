@@ -7,5 +7,5 @@ Curiosity gets the best of you, so you enter the Room of Artifacts.🪔 From wal
 ### What do you do?
 
 - 🤫 [Touch the amulet so Delaney can reveal her secrets to you](./scene12.md)
-- 🧐 [Carefully examine the amulet and try to recall what this particular one was from your teachings](./scene10.md)
+- 🧐 [Carefully examine the amulet and try to recall what this particular one was from your teachings. You turn it over and find a spell written on the back](./scene10.md)
 - 🙅 [You will not be a pawn in Delaney's game. You leave the room and look into this ghost's backstory instead](./scene11.md)
