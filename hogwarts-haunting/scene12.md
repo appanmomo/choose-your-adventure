@@ -1,4 +1,4 @@
-# The Last Meeting 🤝
+# The Meeting 🤝
 
 Delaney whispers "meet me beneath the castle, if you wish to seek more". 
 
