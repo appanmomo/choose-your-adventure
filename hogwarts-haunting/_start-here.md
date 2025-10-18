@@ -1,7 +1,7 @@
 # Welcome to Hogwarts, where Wizards and Witches dwell! 🏰
 
 ### Although Hogwarts is known for it's resiliency, there have been moments that this statement has been challenged. 
-![Hogwarts](./castlers.jpg)
+![Hogwarts](./img/castlers.jpg)
 
 # The Adventure of the Delaney Haunting 🧾
 
