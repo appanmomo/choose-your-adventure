@@ -4,6 +4,6 @@
 
 # The Adventure of the Delaney Haunting 🧾
 
-This story takes us back to our Ravenclaw roots.
+This story transports us back to our Ravenclaw roots.
 
 🧭 [Open the Book](./scene1.md)
