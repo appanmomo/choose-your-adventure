@@ -1,6 +1,6 @@
 # Strange Encounters 👻
 
-You encounter a ghost wondering around the Ravenclaw Commons.She appears to be a prior Hogwarts student, wearing an old Ravenclaw uniform.
+You encounter a ghost wondering around the Ravenclaw Commons. She appears to be a prior Hogwarts student, wearing an old Ravenclaw uniform.
 
 ### What do you do?
 

@@ -7,3 +7,5 @@ You purify the spell Delaney asked that you cast, and it works - Delaney is no l
 You made Hogwarts safe for current and future students. 
 
 🎯 +20 points awarded to Ravenclaw
+
+![Ravenclaw](./img/ravenclawroomrs.jpg)

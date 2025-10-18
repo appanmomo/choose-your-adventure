@@ -11,3 +11,5 @@ In the dim light,🕯️ you can see there are two options. To the left, there i
 - 🪔 [You go left to discover the rumored Room of Ancient Artifacts](./scene8.md)
 - 🎒 [You go right to follow the whispers into the classroom, hoping to find Delaney](./scene9.md)
 - 🛏️ [You turn around and head back to your room. This has already gone too far](./scene7.md)
+
+![Ravenclaw](./img/ravenclawroomrs.jpg)
