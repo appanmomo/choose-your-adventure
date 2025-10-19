@@ -6,6 +6,6 @@ While tip-toeing through the library, you hear a book fall from the shelf📘, f
 
 ### What do you do?
 
-- 🪄 [You are curious, so you read the spell aloud to see what it would do](./scene10.md)
+- ✨ [You are curious, so you read the spell aloud to see what it would do](./scene10.md)
 - 📝 [You quickly write part of the spell in your notes for further research](./scene11.md)
 - 🏃 [Convinced someone saw you, you quickly leave and head back to your commons to avoid any discipline](./scene7.md)

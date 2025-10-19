@@ -1,6 +1,6 @@
 # Finding Help 🧙‍♀️
 
-🏃You are running through the halls looking for an adult to help you when you run straight into Professor McGonagall🧙‍♀️. You immediately explain to her in a panic what you had just witnessed with the mysterious ghost.🫨
+🏃You are running through the halls looking for an adult to help you when you run straight into Professor McGonagall🧙‍♀️. You immediately explain to her in a panic what you had just witnessed with the mysterious ghost.🫣
 
 After your panicked words are done, Professor McGonagall simply and calmly says "These ghosts are here to protect these walls from any dangers we may face, not add to them. There is no need to fear."
 
